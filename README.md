@@ -104,7 +104,6 @@ cat file  # Verify shared access by reading content created in Instance 1
 <br><br>
 <br><br>
 <br><br>
-<br><br>
 
 ### The display of that file’s contents on Instance 2 to verify shared access
 
