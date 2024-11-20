@@ -98,6 +98,12 @@ cat file  # Verify shared access by reading content created in Instance 1
 
 ![sfas](https://github.com/user-attachments/assets/5e9b946c-52e0-46f4-a712-8891ffe03135)
 
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 ### The display of that file’s contents on Instance 2 to verify shared access
 
 ![sggggdg](https://github.com/user-attachments/assets/32966c02-2c82-4916-89b2-9231d3af15eb)
